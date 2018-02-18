@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="page-header">
+    <div class="page-header-inner">
+        {% if page.chapterTitle %}<h3 class="page-kicker">{{ page.chapterTitle }}</h3>{% endif %}
+        <h1 class="page-title">{{ page.title }}</h1>
+        {% if page.chapterSubtitle %}<p class="page-subtitle">{{ page.chapterSubtitle }}</p>{% endif %}
+    </div>
+</div>
+
+<div class="text">
+
+{% assign nav = site.data.nav['toc'] %}
+{% assign protocols_count = '' %}
+
+<nav role="navigation" class="toc">
+    <ol class="toc-list">
+      {% for item in nav %}
+       {% assign protocols_count = protocols_count | append: 'x' %}
+         {% if protocols_count.size < 2 %}
+          {% if item.chapterNumber %}
+          <li>
+              <a href="{{ item.permalink }}">
+                <span{% if item.chapterNumber == 1 %} class="first"{% endif %}>{{ item.chapterNumber }}.</span>
+                  <h3>{{ item.title }}</h3>
+                  <p>{{ item.chapterSubtitle }}</p>
+              </a>
+          </li>
+          {% else %}
+          <li class="toc-li-minor">
+            <a href="{{ item.permalink }}">
+              <h3>{{ item.title }}</h3>
+            </a>
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ol>
+</nav>
+
+{{ content }}
+
+</div>

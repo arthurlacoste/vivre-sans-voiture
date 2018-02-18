@@ -1,0 +1,14 @@
+# Site settings
+title: Vivre sans voiture par Arthur Lacoste
+email: m@arthurlacoste.com
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site https://sansvoiture.fr
+twitter_username: arthurlacoste
+github_username:  arthurlacoste
+product_link: https://gum.co/vivre-sans-voiture
+
+# Build settings
+markdown: kramdown
+exclude: ["node_modules", "Gruntfile.js", "package.json", "_sass", ".sass-cache", ".DS_Store"]
+port: 4200

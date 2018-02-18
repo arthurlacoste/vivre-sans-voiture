@@ -1,0 +1,38 @@
+{
+  "name": "vivre-sans-voiture",
+  "version": "0.1.0",
+  "author": "Arthur Lacoste <arthak@gmail.com>",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-sass": "~0.7.2",
+    "grunt-shell": "~1.1.1",
+    "grunt-serve": "~0.1.6",
+    "grunt-jekyll": "~0.4.2",
+    "grunt-contrib-connect": "~0.9.0",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-pattern-lab-component-builder": "0.0.10"
+  },
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "kramed": "^0.5.6",
+    "liquidjs": "^2.0.3",
+    "marked": "^0.3.7",
+    "pdc": "^0.2.3",
+    "tampax": "^1.2.1",
+    "word-count": "^0.2.2",
+    "yaml-front-matter": "^3.4.0"
+  },
+  "scripts": {
+    "build": "node createbook && pandoc dist/all.md -o dist/all.epub --epub-cover-image=images/book-cover.png --epub-chapter-level=1 --toc ",
+    "build:pdf": "node createbook && pandoc dist/all.md -o dist/all.pdf --epub-cover-image=images/book-cover.png --pdf-engine=xelatex --toc --template=template.tex -s",
+    "build:odt": "node createbook && pandoc dist/all.md -o dist/all.odt --epub-cover-image=images/book-cover.png -s",
+    "start": "jekyll serve"
+  }
+
+}
