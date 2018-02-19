@@ -819,5 +819,11 @@ $RESOURCES
   display: flex;
   justify-content: space-between;
   padding: 1rem 0;
+}
 
+
+@media all and (max-width: 425px) {
+  .footnotes {
+    display: none !important;
+  }
 }
