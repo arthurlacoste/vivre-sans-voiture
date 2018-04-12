@@ -1,3 +1,4 @@
 <nav role="navigation" class="pagination">
     <a href="/table-des-matieres/">Table des matières</a>
+    {% if page.nextChapter %}<a href="{{ page.nextChapter }}">Chapitre suivant</a>{% endif %}
 </nav>

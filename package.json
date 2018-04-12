@@ -34,5 +34,4 @@
     "build:odt": "node createbook && pandoc dist/all.md -o dist/all.odt --epub-cover-image=images/book-cover.png -s",
     "start": "jekyll serve"
   }
-
 }

@@ -19,7 +19,7 @@ layout: default
     <ol class="toc-list">
       {% for item in nav %}
        {% assign protocols_count = protocols_count | append: 'x' %}
-         {% if protocols_count.size < 2 %}
+
           {% if item.chapterNumber %}
           <li>
               <a href="{{ item.permalink }}">
@@ -35,7 +35,7 @@ layout: default
             </a>
           </li>
           {% endif %}
-        {% endif %}
+        
       {% endfor %}
     </ol>
 </nav>
