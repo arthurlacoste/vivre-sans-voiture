@@ -5,4 +5,4 @@ _patternlab
 _site/feed.xml
 _site/*
 
-dist/*
+dist/all.*

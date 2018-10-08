@@ -8,8 +8,6 @@ Ce dépôt est dédié au livre _Vivre sans voiture_ de [Arthur Lacoste](https:/
 
 - Aller sur [le site web](https://sansvoiture.fr)
 - Vous pouvez [pré-commander le livre](https://gumroad.com/l/vivre-sans-voiture) et ainsi aider le projet
-- Vous pouvez [vous abonner par mail](https://sansvoiture.fr/newsletter/) pour suivre le progrès du projet
-- Vous pouvez [suivre le progrès du projet en ligne](https://sansvoiture.fr/timeline/)
 - Vous pouvez [proposer vos idées](https://github.com/arthurlacoste/vivre-sans-voiture/issues)
 
 ## Installation
@@ -24,4 +22,30 @@ Pour créer un serveur temporaire :
 
 ```
 grunt serve
+```
+
+
+## Générer le livre au format ebook
+
+Pré-requis :
+- [Installer pandoc](https://pandoc.org/installing.html)
+
+Les fichiers seront publiés dans le répertoire `dist`.
+
+Pour créer au format EPUB :
+
+```shell
+npm run build
+```
+
+Pour créer au format ODT :
+
+```shell
+npm run build:odt
+```
+
+Pour générer un fichier au format PDF, il faut au préalable disposer de `xelatex`, le moteur Latex utilisé.
+
+```shell
+npm run build:pdf
 ```

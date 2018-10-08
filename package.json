@@ -1,6 +1,6 @@
 {
   "name": "vivre-sans-voiture",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Arthur Lacoste <arthak@gmail.com>",
   "license": "CC-BY-4.0",
   "devDependencies": {
@@ -20,8 +20,6 @@
   },
   "dependencies": {
     "js-yaml": "^3.10.0",
-    "kramed": "^0.5.6",
-    "liquidjs": "^2.0.3",
     "marked": "^0.3.7",
     "pdc": "^0.2.3",
     "tampax": "^1.2.1",

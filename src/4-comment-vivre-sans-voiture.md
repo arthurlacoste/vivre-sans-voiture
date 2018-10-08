@@ -114,6 +114,6 @@ Les coursiers en vélo permettent maintenant de déplacer de lourdes charges&nbs
 
 ### Intempéries
 
-Mes lunettes de ski couvrent mes yeux. Mes gants, qui ont déjà été mis à rude épreuve ces derniers jours sont prêts à me protéger des intempéries. Un pantalon de pluie un peu moche - toujours moins que le lycra - fait office de protection, à l'épreuve de la moindre goutte de pluie ou de chaque flocon de neige.
+Des lunettes de ski couvrent mes yeux. Mes gants, qui ont déjà été mis à rude épreuve ces derniers jours sont prêts à me protéger des intempéries. Un pantalon de pluie un peu moche - toujours moins que le lycra - fait office de protection, à l'épreuve de la moindre goutte de pluie ou de chaque flocon de neige.
 
 Je sors de chez moi envahi en quelques secondes par un froid glacial. Quelques minutes après avoir chevauché mon destrier, mon corps se réchauffe enfin.
