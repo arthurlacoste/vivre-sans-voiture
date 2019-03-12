@@ -11,7 +11,7 @@ Il serait simple de "sauter" directement de la voiture au vélo, car on ne va pa
 
 Et pourtant, on peut considérer chaque trajet, chaque destination ou chaque voyage d'une manière unique. Tout comme manger, boire ou respirer, se déplacer est presque vital, c'est au minimum un acte indispensable à notre survie. Au lieu de le subir, autant choisir ses armes, autant se passer de la nécessité pour mêler l'utile à l'agréable.
 
-J'ai évoqué précédemment les bienfaits des modes actifs sur le corps. Mais chaque pas ou chaque coup de pédale est une  
+J'ai évoqué précédemment les bienfaits des modes actifs sur le corps. Mais chaque pas ou chaque coup de pédale est un choix que vous faites, un vote pour privilégier un mode de déplacement.
 
 Le chapitre suivant va évoquer les différents moyens de vous déplacer sans avoir recours à un moyen de transport personnel utilisant une énergie fossile. Cette rubrique est loin d’être exhaustive, et elle inclut aussi des services.
 
