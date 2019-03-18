@@ -7,7 +7,7 @@ permalink: /2-pourquoi-vivre-sans-voiture/
 nextChapter: /3-citadin-campagnard/
 ---
 
-> «&nbsp;L’homme civilisé a construit des voitures, mais il a perdu l’usage de ses pieds.&nbsp;»
+> «&nbsp;À force de développer du viagra, les hommes sauront bander mais sans savoir à quoi ça sert..&nbsp;»
 >
 > <cite>Ralph Waldo Emerson</cite>
 
