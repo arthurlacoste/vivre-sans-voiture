@@ -15,7 +15,8 @@ tampax.yamlParseFile('_data/nav.yml', {}, {}, (err, data) => {
 
   for(var index in nav) {
    if (nav.hasOwnProperty(index)) {
-      buff += `\n\n# ${nav[index].title}\n\n<div style="page-break-after: always;"></div>`;
+      buff += '\\newpage\n\n';
+      buff += `\n\n# ${nav[index].title}\n\n<div style="page-break-after: always;"></div> \n\n`;
       const results = frontMatter.loadFront(nav[index].file);
       buff += results.__content;
    }
