@@ -30,7 +30,7 @@ La sédentarité est l’un des plus grands fléaux de notre société moderne. 
 
 L’être humain n’a jamais été aussi immobile que ces dernières décennies. L’évolution de notre comportement se traduit par des conséquences directes&nbsp;: surpoids, obésité, accroissement des maladies cardio-vasculaires, diabète, augmentation des risques de cancer du côlon, d’hypertension artérielle, d’ostéoporose, de troubles lipidiques, de dépression et d’anxiété[^2-2].
 
-Et lorsque l’on se rend compte que des poignées d’amour ou que notre petit ventre à bière commence à pousser, on se remet question. Pour pallier à ces problématiques tout en conservant notre hygiène de vie démesurément paradoxale, nous nous inscrivons à des salles de sports, ou nous nous entassons en sueur pour faire du cardio ou du renforcement musculaire. Nous faisons un régime, pour perdre quelques kilos.
+Et lorsque l’on se rend compte que des poignées d’amour ou que notre petit ventre à bière commence à pousser, on se remet en question. Pour pallier à ces problématiques tout en conservant notre hygiène de vie démesurément paradoxale, nous nous inscrivons à des salles de sports, ou nous nous entassons en sueur pour faire du cardio ou du renforcement musculaire. Nous faisons un régime, pour perdre quelques kilos.
 
 Mais la solution n’est ni un régime miracle ni une pratique du sport à outrance. Une des solutions est de penser au fond du problème&nbsp;: son mode de vie. Il faut tout simplement être actif au quotidien. Notre corps n’est pas une simple marionnette que l’on déplace avec nous parce qu’on n’a pas le choix. Il faudrait donc envisager arrêter de choisir des raccourcis "passifs" pour ne pas avoir à nous fatiguer.
 
