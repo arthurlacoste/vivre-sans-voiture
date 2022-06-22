@@ -6,7 +6,7 @@ permalink: /6-conclusion/
 nextChapter: /lexique/
 ---
 
-J'ai la chance de n'avoir jamais connu de bouchons en tant que conducteur. Vous savez, lorsque vous partez dans le sud en même temps que tout le monde, que la route se congestionne, et que vous ne pouvez plus parcourir quelques mètres en une heure. Vous vous faites la réflexion que vous iriez plus vite à pied, a marcher sur le bas-côté de la route avec vos bagages.
+J'ai la chance de n'avoir jamais connu de bouchons en tant que conducteur. Vous savez, lorsque vous partez dans le sud en même temps que tout le monde, que la route se congestionne, et que vous ne pouvez plus parcourir que quelques mètres en une heure. Vous vous faites la réflexion que vous iriez plus vite à pied, a marcher sur le bas-côté de la route avec vos bagages.
 
 J'ai conscience que mes reflexion ne seront pas partagées par tous, mais à mon sens, le trajet est souvent bien plus important que la destination.
 
